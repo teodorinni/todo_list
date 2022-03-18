@@ -1,0 +1,33 @@
+.navbar {
+    padding: 0.3% 1%;
+    font-weight: 500;
+}
+
+.tasks-list{
+    margin-top: 2%;
+    width: 90%;
+    float: left;
+    margin-left: 7%;
+}
+
+.task-row{
+    margin: 0.5%;
+}
+
+.first-item{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.second-item{
+    display: inline-block;
+    width: 60%;
+    margin: 0% 1%;
+    vertical-align: middle;
+}
+
+.button{
+    display: inline-block;
+    vertical-align: middle;
+}
